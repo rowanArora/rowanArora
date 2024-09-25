@@ -4,7 +4,7 @@ CTO & Co-Founder at [InkTank](https://www.inktank.io/home)
 
 [**View my resume**](Resume.pdf)
 
-[![linkedin](https://img.shields.io/badge/-@jakegut-161616?style=flat-square&labelColor=161616&logo=LinkedIn&logoColor=white&color=161616)](https://www.linkedin.com/in/rowanarora/)  
+[![linkedin](https://img.shields.io/badge/-@rowanarora-161616?style=flat-square&labelColor=161616&logo=LinkedIn&logoColor=white&color=161616)](https://www.linkedin.com/in/rowanarora/)  
 
 ## My Experience
 
