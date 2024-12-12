@@ -18,7 +18,9 @@ CTO & Co-Founder at [InkTank](https://www.inktank.io/home)
 
 [**Evodyne Robotics Virtual Model Simulation**](#) - Created a complete virtual simulation of the Evodog robot using CAD modeling, enhancing design iteration speed and reducing physical testing needs by 50%. (_XML, URDF, XACRO, ROS, Gazebo, RViz_)
 
-[**Stellar Requiem**](https://ryukinou.itch.io/stellar-requiem) - Developing 'Stellar Requiem,' a rhythm-based game with co-op gameplay, featuring advanced enemy AI and rhythmic challenges to enhance player engagement. (_Godot, GDScript/C#_)
+[**Key-Value Database System API**](https://github.com/rowanArora/Key-Value-Database-System-API) - Collaborated in a team of 3 to design and implement a scalable key-value database system, incorporating Memtables, SSTs, Static B+-Trees, Buffer Pools, LSM-Trees, and Bloom Filters, emphasizing memory management and performance optimization to achieve a 30% improvement in query efficiency and support datasets beyond 10GB. (_C++, Python, SQL_)
+
+[**Stellar Requiem**](https://ryukinou.itch.io/stellar-requiem) - Developed 'Stellar Requiem,' a rhythm-based game with co-op gameplay, featuring advanced enemy AI and rhythmic challenges to enhance player engagement. (_Godot, GDScript/C#_)
 
 [**FUSE File System Implementation**](https://github.com/rowanArora/FUSE-File-System-Implementation) - Developed a FUSE-based file system, supporting key operations like creation, deletion, and resizing, while significantly improving error-handling and memory efficiency. (_C_)
 
