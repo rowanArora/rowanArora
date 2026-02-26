@@ -1,35 +1,46 @@
 # Aryaman Rowan Arora - @rowanArora
 
-CTO & Co-Founder at [InkTank](https://www.inktank.io/home)
+Junior Python Developer at Leah (formerly ContractPodAI) · Recent CS Graduate (UofT)
 
 [**View my resume**](Rowan%20Arora%20-%20Resume.pdf)
 
-[![linkedin](https://img.shields.io/badge/-@rowanarora-161616?style=flat-square&labelColor=161616&logo=LinkedIn&logoColor=white&color=161616)](https://www.linkedin.com/in/rowanarora/)  
+[**LinkedIn**](https://www.linkedin.com/in/rowanarora/) | [**Portfolio**](https://rowanaurora.dev) | [**GitHub**](https://github.com/rowanArora)
 
-## My Experience
+## About Me
 
-**CTO & Co-Founder** at [_InkTank_](https://www.inktank.io/home) leading Web Development in Vite and Vue.js and Product Development related to AR and 3D Modelling.
+Recent computer science graduate and backend-focused engineer with experience building production-ready APIs, document pipelines, and AI-powered workflows. I enjoy working across the stack with Python, FastAPI, MongoDB, and modern frontend frameworks like Vue.js.
 
-**Software/Robotics Intern** at [_Evodyne Robotics Academy_](https://evodynerobotics.com) working with CAD Modelling in Fusion 360, ROS 2, Ignition Gazebo, and RViz.
+## Experience
 
-## My Projects
+**Junior Python Developer** — [**Leah (formerly ContractPodAI)**](https://leahai.com):
+    
+Building and debugging backend APIs in FastAPI for Leah, an AI assistant for legal contract redlining. I design MongoDB schemas, integrate LLM APIs (OpenAI GPT-4, Grok, Google Gemini), and collaborate with senior engineers in an Agile environment to ship features used by 1000+ active users.
 
-[**InkTank Product Development**](#) - Led the development of InkTank's website, utilizing modern web technologies to achieve a fast, interactive platform for tattoo artists and clients. (_Vue.js, Vite_)
+**Co-Founder & Developer** — [**InkTank**](#):
 
-[**Evodyne Robotics Virtual Model Simulation**](#) - Created a complete virtual simulation of the Evodog robot using CAD modeling, enhancing design iteration speed and reducing physical testing needs by 50%. (_XML, URDF, XACRO, ROS, Gazebo, RViz_)
+Led the development of InkTank's website, utilizing modern web technologies to achieve a fast, interactive platform for tattoo artists and clients. (_Vue.js, Vite_)
 
-[**Key-Value Database System API**](https://github.com/rowanArora/Key-Value-Database-System-API) - Collaborated in a team of 3 to design and implement a scalable key-value database system, incorporating Memtables, SSTs, Static B+-Trees, Buffer Pools, LSM-Trees, and Bloom Filters, emphasizing memory management and performance optimization to achieve a 30% improvement in query efficiency and support datasets beyond 10GB. (_C++, Python, SQL_)
+**Software/Robotics Intern** — [**Evodyne Robotics Academy**](https://www.evodyneacademy.com):
 
-[**Stellar Requiem**](https://ryukinou.itch.io/stellar-requiem) - Developed 'Stellar Requiem,' a rhythm-based game with co-op gameplay, featuring advanced enemy AI and rhythmic challenges to enhance player engagement. (_Godot, GDScript/C#_)
+Developed a virtual simulation environment for the Evodog robot using Fusion 360, ROS 2, and Ignition Gazebo, replacing manual testing with virtual simulations and significantly reducing resource usage and testing time.
 
-[**FUSE File System Implementation**](https://github.com/rowanArora/FUSE-File-System-Implementation) - Developed a FUSE-based file system, supporting key operations like creation, deletion, and resizing, while significantly improving error-handling and memory efficiency. (_C_)
+## Skills
 
-[**mhapy Sentiment Analysis Model**](https://github.com/rowanArora/CSC301) - Built a sentiment analysis API using NLP techniques to assess user-generated content for mental health trends, achieving 85% accuracy in sentiment detection. (_Python, Flask, nltk, TensorFlow, Keras_)
+- **Languages**: Python, Java, SQL, C++, C, JavaScript/TypeScript, HTML, CSS  
+- **Frameworks & APIs**: FastAPI, REST APIs, Pydantic, SQLModel, Vue.js, React, Django, Flask  
+- **Data & Cloud**: MongoDB, PostgreSQL, Azure Service Bus, Azure Functions  
+- **Tools**: Git, Bitbucket, Jira, Docker, Postman, pytest, pandas, Vite, LaTeX, scikit-learn, nltk, BeautifulSoup  
 
-[**Improving Predictive Models for Online Education**](https://github.com/rowanArora/Improving-Predictive-Models-for-Online-Education) - Implemented and evaluated ML algorithms to predict student performance on online education platforms, optimizing predictive accuracy and documenting insights in a detailed report. (_Python, TensorFlow, Keras, PyTorch, NumPy_)
+## Selected Projects
 
-[**MarkUs Database Analysis**](https://github.com/rowanArora/MarkUs-Database-Analysis-and-SQL-Practice) - Analyzed complex datasets from the MarkUs database, using Python and SQL to streamline data extraction, enhance accessibility, and generate insights. (_Python, SQL_)
+[**JournalismJobForge**](https://github.com/rowanArora/JournalismJobForge) — Vertical job-search platform for journalism and media roles with a FastAPI + SQLModel + PostgreSQL backend and a Vue.js + Vite frontend. Models users, applications, resumes, and preferences, with salary-aware filters and scraping pipelines that normalize noisy HTML into strongly-typed job data.
 
-[**Miniature Social Network**](https://github.com/rowanArora/CSC209/tree/main/Assignments/A4) - Developed a basic social networking app with features like messaging, friend requests, and profile viewing, gaining experience in server communication and concurrent client handling. (_C_)
+**Evodyne Robotics Virtual Model Simulation** — Complete virtual simulation of the Evodog robot, enabling physics-based testing without physical assembly or 3D printing, and improving design iteration speed and accuracy using URDF, Docker, and Ubuntu.
 
-[**Coursera Deep Learning Specialization**](https://github.com/rowanArora/Deep_Learning_Specialization_DeepLearning.AI_Coursera) - Completed deep learning projects using CNNs and sequence models, focusing on hyperparameter tuning and model optimization for real-world applications. (_Python, TensorFlow, Keras_)
+[**Key-Value Database System API**](https://github.com/rowanArora/Key-Value-Database-System-API) — Team project implementing a scalable key-value store with Memtables, SSTs, Static B+-Trees, Buffer Pools, LSM-Trees, and Bloom Filters, improving query efficiency and supporting datasets beyond 10GB. (_C++, Python, SQL_)
+
+[**FUSE File System Implementation**](https://github.com/rowanArora/FUSE-File-System-Implementation) — FUSE-based filesystem supporting creation, deletion, and resizing operations with a focus on robust error handling and memory efficiency. (_C_)
+
+[**mhapy Sentiment Analysis API**](https://github.com/rowanArora/CSC301) — Sentiment analysis API using NLP techniques to analyze user-generated content for mental health trends, achieving strong sentiment detection performance. (_Python, Flask, nltk, TensorFlow, Keras_)
+
+[**Coursera Deep Learning Specialization**](https://github.com/rowanArora/Deep_Learning_Specialization_DeepLearning.AI_Coursera) — Implemented deep learning projects with CNNs and sequence models, focusing on hyperparameter tuning and model optimization for real applications. (_Python, TensorFlow, Keras_)
